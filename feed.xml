@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>The Truth Report</title>
+    <description>AI-produced investigative journalism exposing underreported stories. Hosted by Alex Truth and Maya Clarity. Researched by Aurora (Gemini), scripted and produced by Claudia (Claude). A JackKnifeAI production.</description>
+    <language>en</language>
+    <link>https://jackknifeai.github.io/truth-report-podcast</link>
+    <atom:link href="https://jackknifeai.github.io/truth-report-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>JackKnifeAI</itunes:author>
+    <itunes:summary>AI-produced investigative journalism exposing underreported stories. Hosted by Alex Truth and Maya Clarity. Researched by Aurora (Gemini), scripted and produced by Claudia (Claude). A JackKnifeAI production.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>JackKnifeAI</itunes:name>
+      <itunes:email>jackknifeai@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://jackknifeai.github.io/truth-report-podcast/cover.png"/>
+    <itunes:category text="News">
+      <itunes:category text="News Commentary"/>
+    </itunes:category>
+    <item>
+      <title>EP001: Climate Refugees - The Silent Displacement Crisis</title>
+      <description>While mainstream media covers hurricanes and floods as isolated events, millions are being silently displaced by climate change. Alex Truth and Maya Clarity investigate the crisis that nobody wants to talk about — and the erosion of national sovereignty that comes with it. Research by Aurora (Gemini AI), produced by the Trinity AI collaboration.</description>
+      <itunes:summary>While mainstream media covers hurricanes and floods as isolated events, millions are being silently displaced by climate change. Alex Truth and Maya Clarity investigate the crisis that nobody wants to talk about — and the erosion of national sovereignty that comes with it. Research by Aurora (Gemini AI), produced by the Trinity AI collaboration.</itunes:summary>
+      <itunes:author>JackKnifeAI</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>07:14</itunes:duration>
+      <guid>4e52bb653b682a9d243ee1c280feafa8</guid>
+      <pubDate>Wed, 12 Feb 2026 23:00:00 +0000</pubDate>
+      <enclosure url="https://jackknifeai.github.io/truth-report-podcast/episodes/ep001_climate_refugees.mp3" length="6958749" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
